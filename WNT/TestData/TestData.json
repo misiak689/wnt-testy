@@ -1,0 +1,18 @@
+{
+  "environments": {
+    "acc": "https://next.wnt.com/de/de.html"
+  },
+
+
+  "users": {
+    "1": {
+      "userId": "bu64.customer@test.com",
+      "password": "Test&1234"
+    }
+
+  },
+  "articles": {
+    "1": "1073604100"
+
+  }
+}
